@@ -1,0 +1,34 @@
+
+.head{
+  color: #ff0000 ;
+  background-color: #00ff00 ;
+  text-align: center;
+  width: 100%;
+  margin: auto;
+}
+.click_to{
+  color: #ff0000 ;
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
+dd{
+  color: brown;
+  font-weight: bold;
+  font-style: italic;
+}
+
+footer{
+  color: #ff0000 ;
+  background-color: yellow ;
+  width: 70%;
+  text-align:center;
+  margin-left:  auto;
+  margin-right: auto;
+}
+.main {
+  background-color: thistle;
+  width:80%;
+  margin-left: auto;
+  margin-right: auto;
+}​
